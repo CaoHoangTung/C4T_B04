@@ -1,2 +1,2 @@
-print("Tung dep trai")
-print("Tung la mentor c4t")
+print("Minh dep trai")
+print("Minh la mentor c4t")
